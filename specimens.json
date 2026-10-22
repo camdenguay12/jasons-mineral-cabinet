@@ -1,0 +1,626 @@
+[
+  {
+    "id": "halides-001",
+    "name": "Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-002",
+    "name": "Blueberry Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-003",
+    "name": "Sugar Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-004",
+    "name": "Purple Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-005",
+    "name": "Fluorite with Quartz",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-006",
+    "name": "Fluorite on Matrix",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-007",
+    "name": "Milky Way Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-008",
+    "name": "Fluorite on Matrix",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-009",
+    "name": "QR Code Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-010",
+    "name": "Pink Halite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-011",
+    "name": "Blue Halite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-012",
+    "name": "Green Halite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-013",
+    "name": "Green Halite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-014",
+    "name": "Purple Halite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-015",
+    "name": "Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-016",
+    "name": "Fluorite Cluster",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-017",
+    "name": "Tie-Dye Fluorite Cube",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-018",
+    "name": "Fluorite and Quartz",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-019",
+    "name": "Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-020",
+    "name": "Fluorite with sphalerite, pyrite, calcite. chalcopyrite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-021",
+    "name": "Window Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-022",
+    "name": "Fluorite on Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-023",
+    "name": "Pink Octahedral Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-024",
+    "name": "Sky Blue Fluorite Cube",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-025",
+    "name": "Dark Purple Fluorite Cluster",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-026",
+    "name": "Cubic Blue Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-027",
+    "name": "Green Octahedron Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-028",
+    "name": "Fluorite on Quartz",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-029",
+    "name": "Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-030",
+    "name": "Fluorite on Quartz",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-031",
+    "name": "Fluorite and Chalcopyrite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-032",
+    "name": "Orange Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "halides-033",
+    "name": "Rootbeer Fluorite",
+    "family": "Halides",
+    "images": []
+  },
+  {
+    "id": "silicates-001",
+    "name": "Neptunite on Natrolite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-002",
+    "name": "Heliodor",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-003",
+    "name": "Imperial Topaz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-004",
+    "name": "Tsavorite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-005",
+    "name": "Green Tourmaline on Quartz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-006",
+    "name": "Cat's Eye Tourmaline",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-007",
+    "name": "Citrine",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-008",
+    "name": "Datolite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-009",
+    "name": "Garnet on Muscovite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-010",
+    "name": "Kunzite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-011",
+    "name": "Chrysocolla",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-012",
+    "name": "Elestial Quartz with Sulfur",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-013",
+    "name": "Carpholite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-014",
+    "name": "Spessartine Garnet",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-015",
+    "name": "Epidote",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-016",
+    "name": "Bloodstone and Mookaite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-017",
+    "name": "Grape Agate",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-018",
+    "name": "Prehnite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-019",
+    "name": "Quartz, Fluorite, and Tourmaline on Feldspar",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-020",
+    "name": "Axinite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-021",
+    "name": "Quartz var. Amethyst w/ hematite inclusions",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-022",
+    "name": "Blue Tiger Eye",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-023",
+    "name": "Garnet",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-024",
+    "name": "Blue Lace Agate",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-025",
+    "name": "Epidote and Quartz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-026",
+    "name": "Aegerine and Feldspar",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-027",
+    "name": "Shattuckite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-028",
+    "name": "Hematite Quartz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-029",
+    "name": "Amethyst",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-030",
+    "name": "Quartz Cluster",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-031",
+    "name": "Tourmaline on Quartz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-032",
+    "name": "Peridot",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-033",
+    "name": "Kunzite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-034",
+    "name": "Imperial Topaz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-035",
+    "name": "Rutilated Quartz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-036",
+    "name": "Scapolite Crystal",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-037",
+    "name": "Afghanite",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-038",
+    "name": "Aquamarine with Fluorite and Mica",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-039",
+    "name": "Agate Geode",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-040",
+    "name": "Chlorite Quartz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-041",
+    "name": "Quartz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-042",
+    "name": "Tourmaline",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "silicates-043",
+    "name": "Dumortierite in Quartz",
+    "family": "Silicates",
+    "images": []
+  },
+  {
+    "id": "carbonates-001",
+    "name": "Malachite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-002",
+    "name": "Argonite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-003",
+    "name": "Amber Calcite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-004",
+    "name": "Mangano Calcite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-005",
+    "name": "Orange Calcite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-006",
+    "name": "White Aragonite w/ celestite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-007",
+    "name": "Cobaltoan Smithsonite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-008",
+    "name": "Rosasite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-009",
+    "name": "Azurite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-010",
+    "name": "Aurachalcite on Hemimorphite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-011",
+    "name": "Cobaltoan Aragonite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-012",
+    "name": "Azurite on Malachite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "carbonates-013",
+    "name": "Honey Calcite",
+    "family": "Carbonates",
+    "images": []
+  },
+  {
+    "id": "sulfides-001",
+    "name": "Sphalerite",
+    "family": "Sulfides",
+    "images": []
+  },
+  {
+    "id": "sulfides-002",
+    "name": "Stibnite",
+    "family": "Sulfides",
+    "images": []
+  },
+  {
+    "id": "sulfides-003",
+    "name": "Pyrite",
+    "family": "Sulfides",
+    "images": []
+  },
+  {
+    "id": "sulfates-001",
+    "name": "Desert Rose",
+    "family": "Sulfates",
+    "images": []
+  },
+  {
+    "id": "sulfates-002",
+    "name": "Selenite on Alabastar",
+    "family": "Sulfates",
+    "images": []
+  },
+  {
+    "id": "phosphates-001",
+    "name": "Vanadinite on Barite",
+    "family": "Phosphates",
+    "images": []
+  },
+  {
+    "id": "phosphates-002",
+    "name": "Cavensite",
+    "family": "Phosphates",
+    "images": []
+  },
+  {
+    "id": "phosphates-003",
+    "name": "Conichalcite",
+    "family": "Phosphates",
+    "images": []
+  },
+  {
+    "id": "phosphates-004",
+    "name": "Mimetite",
+    "family": "Phosphates",
+    "images": []
+  },
+  {
+    "id": "native-elements-001",
+    "name": "Sulfur Crystal",
+    "family": "Native Elements",
+    "images": []
+  },
+  {
+    "id": "zeolites-001",
+    "name": "Chabazite",
+    "family": "Zeolites",
+    "images": []
+  },
+  {
+    "id": "zeolites-002",
+    "name": "Apophylite and Stilbite",
+    "family": "Zeolites",
+    "images": []
+  },
+  {
+    "id": "zeolites-003",
+    "name": "Gyrolite and Laumantite",
+    "family": "Zeolites",
+    "images": []
+  },
+  {
+    "id": "oxides-001",
+    "name": "Sapphire",
+    "family": "Oxides",
+    "images": []
+  },
+  {
+    "id": "other-001",
+    "name": "Hyalite Opal",
+    "family": "Other",
+    "images": []
+  }
+]
